@@ -48,3 +48,6 @@
 
 [branch "master"]
   mergeoptions = --no-edit
+[user]
+	email = a.akerrouach@gmail.com
+	name = Akerrouach Anouar
